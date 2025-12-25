@@ -8,8 +8,7 @@ A mod for Derail Valley that adds the Coras Iompar Éireann E421 class diesel-hy
 * Downpatrick & Country Down "pioneering green" livery - spawns in Goods Factory
 * West of Ireland Steam Railway Association "Galway Red" livery - spawns in Machine Factory
 
-# THIS MOD REQUIRES BOTH CUSTOM CAR LOADER TO WORK
-* Custom Car Loader: https://www.nexusmods.com/derailvalley/mods/324
+## THIS MOD REQUIRES BOTH CUSTOM CAR LOADER (https://www.nexusmods.com/derailvalley/mods/324) TO WORK
 
 This mod may be used with the Gauge mod (https://www.nexusmods.com/derailvalley/mods/563) to achieve maximum accuracy. Select the Custom rail gauge preset and enter "1600" in the "Gauge (millimeters)" field.
 This mod will run perfectly fine without Gauge installed.
@@ -23,3 +22,4 @@ Known Issues:
 * Controls may not work in VR. I may add dedicated support if there is demand for it.
 * The oil temperature warning light comes on prematurely.
 * There is no custom buffer model.
+* The HUD cnnot control the rear headlights
