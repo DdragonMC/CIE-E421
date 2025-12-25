@@ -22,4 +22,4 @@ Known Issues:
 * Controls may not work in VR. I may add dedicated support if there is demand for it.
 * The oil temperature warning light comes on prematurely.
 * There is no custom buffer model.
-* The HUD cnnot control the rear headlights
+* The HUD cannot control the rear headlights
