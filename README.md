@@ -13,6 +13,8 @@ A mod for Derail Valley that adds the Coras Iompar Éireann E421 class diesel-hy
 This mod may be used with the Gauge mod (https://www.nexusmods.com/derailvalley/mods/563) to achieve maximum accuracy. Select the Custom rail gauge preset and enter "1600" in the "Gauge (millimeters)" field.
 This mod will run perfectly fine without Gauge installed.
 
+Please report any bugs or issues to `#mods-support-and-bugs` channel in the Altfuture Discord Server
+
 Known Issues:
 * The locomotive spawns with the cab light on. This resets when the electrics breaker is flipped.
 * There is only one texture for the different LOD levels. This means that the locomotive will appear to have the "Black & Tan" livery from a distance, no matter the livery.
