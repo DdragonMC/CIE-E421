@@ -5,12 +5,13 @@ A mod for Derail Valley that adds the Coras Iompar Éireann E421 class diesel-hy
 * E428 "Black & Tan" livery - spawns in City West
 * E432 "Black & Tan" livery - spawns in City South
 * [redacted] livery - spawns in Food Factory
-* Downpatrick & Country Down "pioneering green" livery - spawns in Goods Factory
+* Downpatrick & Country Down "Pioneering Green" livery - spawns in Goods Factory
 * West of Ireland Steam Railway Association "Galway Red" livery - spawns in Machine Factory
 
 ## THIS MOD REQUIRES "CUSTOM CAR LOADER" AND "GAUGE" TO WORK
-CCL:   https://www.nexusmods.com/derailvalley/mods/324
-Gauge: https://www.nexusmods.com/derailvalley/mods/563
+- CCL:   https://www.nexusmods.com/derailvalley/mods/324
+- Gauge: https://www.nexusmods.com/derailvalley/mods/563
+
 This mod requires the Gauge mod because this locomotive uses Irish broad gauge. Select the Custom rail gauge preset in Gauge settings and enter "1600" in the "Gauge (millimeters)" field.
 
 Please report any bugs or issues to `#mods-support-and-bugs` channel in the Altfuture Discord Server
